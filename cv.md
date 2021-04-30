@@ -25,6 +25,7 @@ November 2020 – April 2020 – iOS developer courses in IT Academy, Minsk, Bel
 1996 – 2001 Belarusian National Technical University, Automotive and Tractor Faculty, engineer
 
 ## Languages:
+* Russian      Native
 * Spanish     B1 / Intermediate
 * English     A2 / Elementary
 
